@@ -21,7 +21,7 @@ Each module contains source code, comments, and assignment instructions when app
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/VaibhavUPratap/Java_Class.git
+   git clone https://github.com/srinidhi-2006/Java-Class.git
    ```
 2. Navigate to the desired module folder and explore the Java files.
 
